@@ -1,2 +1,2 @@
 # Mini-Erp
-Desenvolvimento de um Sistema para Gerenciamento Comercial
+Desenvolvimento de um sistema para gerenciamento comercial

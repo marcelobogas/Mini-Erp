@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="model.TipoPessoa">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoPessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="model.Pessoa">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACAAEgCAAACAEAAAQEACAAAAAAAAAAAAAAAABEAg=</HashCode>
+      <FileName>Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="model.PessoaFisica">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAQCAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PessoaFisica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="model.PessoaJuridica">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAEAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PessoaJuridica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

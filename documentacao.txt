@@ -1,0 +1,129 @@
+Documentação Mini Erp
+
+Requisitos do Usuário
+Sistema para gestão de lojas, que automatiza as atividades de Vendas, Finanças, Fiscal, Estoque, Compras e Gerencial (emissão de relatórios e gráficos para auxiliar nas tomadas de decisões diárias da empresa). Caracteriza-se pela integração com diversos tipos de sistemas, sendo eles Desktop, Web ou Mobile.
+
+Requisitos do Sistema
+1.	Sistema de login (Gestão de Usuário).
+2.	Tela Principal
+3.	Menu de opções com todas as funcionalidades e parâmetros do sistema
+4.	Menu de Botões com as principais funcionalidades
+
+Requisitos Funcionais
+Módulo de Cadastros 
+1.	RF01 — Cadastro de Clientes
+1.1.	Inserir, alterar, excluir e consultar clientes
+1.2.	Emitir relatório
+1.3.	Bloquear e liberar clientes
+Prioridade: Essencial — Importante — Desejável
+
+2.	RF02 — Cadastro de Fornecedores
+2.1.	Inserir, alterar, excluir e consultar fornecedores
+2.2.	Emitir relatório
+2.3.	Bloquear e liberar fornecedores
+Prioridade: Essencial — Importante — Desejável
+
+3.	RF03 — Cadastro de Funcionários
+3.1.	Inserir, alterar, excluir e consultar funcionários
+3.2.	Emitir relatório
+3.3.	Bloquear e liberar funcionários
+Prioridade: Essencial — Importante — Desejável
+
+4.	RF04 —Cadastro de Pedidos e Orçamentos
+4.1.	Inserir, alterar, excluir e consultar pedidos e orçamentos
+4.2.	Abrir e fechar pedidos
+4.3.	Emitir relatório
+Prioridade: Essencial — Importante — Desejável
+
+5.	RF05 — Cadastro de Grupos e Subgrupos (para melhorar o sistema de filtragem nos relatórios)
+5.1.	Inserir, alterar, excluir e consultar grupos e subgrupos
+5.2.	Emitir relatórios
+Prioridade: Essencial — Importante — Desejável
+
+6.	RF06 — Cadastro de Formas de Pagamento
+6.1.	Inserir, alterar, excluir e consultar formas de pagamentos
+6.2.	Emitir relatório
+Prioridade: Essencial — Importante — Desejável
+
+7.	RF07 — Cadastro de Usuários
+7.1.	Inserir, alterar, excluir e consultar usuários
+7.2.	Emitir relatório
+7.3.	Bloquear e liberar usuários
+Prioridade: Essencial — Importante — Desejável
+
+8.	RF08 — Cadastro de Produtos
+8.1.	Inserir, alterar, excluir e consultar produtos
+8.2.	Emitir relatório
+8.3.	Bloquear e liberar produtos
+Prioridade: Essencial — Importante — Desejável
+
+9.	RF09 — Cadastro de Unidades
+9.1.	Inserir, alterar, excluir e consultar unidades
+9.2.	Emitir relatórios
+Prioridade: Essencial — Importante — Desejável
+
+Módulo de Vendas
+1.	RF10 — PDV (Ponto de Venda)
+1.1.	Emissão do recibo da venda
+1.2.	Emissão do cupom fiscal
+1.3.	Realizar devoluções
+1.4.	Efetuar atualização no estoque de acordo com a operação efetuada
+Prioridade: Essencial — Importante — Desejável
+
+Módulo de Finanças
+1.	RF11 — Faturamento
+1.1.	
+Prioridade: Essencial — Importante — Desejável
+
+2.	RF12 — Contas a Pagar
+2.1.	Inserir, alterar, excluir e consultar contas a pagar
+2.2.	Emitir relatório
+Prioridade: Essencial — Importante — Desejável
+
+3.	RF13 – Contas a Receber
+3.1.	Inserir, alterar, excluir e consultar contas a receber
+3.2.	Emitir relatório
+Prioridade: Essencial — Importante — Desejável
+
+Módulo de Estoque
+1.	RF14 – Estoque
+1.1.	
+
+Módulo Fiscal
+1.	Emissão de Nota Fiscal Eletrônica
+1.1.	Inserir, alterar e consultar notas fiscais eletrônicas de acordo com as normas fiscais atuais
+Prioridade: Essencial — Importante — Desejável
+
+2.	Manifesto eletrônico de documentos fiscais
+2.1.	
+Prioridade: Essencial — Importante — Desejável
+
+Módulo de Compras
+1.	Cadastro de Compras
+1.1.	
+Prioridade: Essencial — Importante — Desejável
+
+Módulo Gerencial
+1.	Relatórios
+1.1.	Ad
+Prioridade: Essencial — Importante — Desejável
+2.	Gráficos
+2.1.	Ad
+Prioridade: Essencial — Importante — Desejável
+
+Módulo de Arquivos
+
+Módulo de Logs
+
+Requisitos Não-funcionais
+1.	RNF01 — Confiabilidade 
+1.1.	O sistema deve possuir senhas de acesso e identificação para diferentes tipos de usuários de acordo com sua função e atribuições.
+Prioridade: Essencial — Importante — Desejável
+
+2.	RNF02 — Eficiência 
+2.1.	Deve-se garantir um tempo-resposta aceitável para o acesso ao sistema, assim como suas funções.
+Prioridade: Essencial — Importante — Desejável
+
+3.	RNF03 — Portabilidade 
+3.1.	O sistema deve ser executado em qualquer computador com sistema operacional comum, e acesso a internet para as aplicações web e mobile.
+Prioridade: Essencial — Importante — Desejável
