@@ -10,8 +10,9 @@ namespace model
     {
         public String Nome { get; set; }
         public String CPF { get; set; }
-        public String Rg { get; set; }
+        public String RG { get; set; }
         public String Sexo { get; set; }
         public Decimal Limite { get; set; }
+        public String ConsumidorFinal { get; set; }
     }
 }

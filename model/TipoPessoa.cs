@@ -8,7 +8,7 @@ namespace model
 {
     public class TipoPessoa
     {
-        public int IdTipoPEssoa { get; set; }
+        public int IdTipoPessoa { get; set; }
         public String DescricaoTipoPessoa { get; set; }
     }
 }

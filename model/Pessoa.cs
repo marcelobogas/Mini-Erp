@@ -20,6 +20,6 @@ namespace model
         public String Cep { get; set; }
         public String Telefone { get; set; }
         public String Email { get; set; }
-        public String Observacoes { get; set; }
+        public String Observacao { get; set; }
     }
 }
